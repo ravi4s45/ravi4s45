@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available here [https://portfolioravi7145.herokuapp.com/](link)
+- 👨‍💻 All of my projects are available [here](https://portfolioravi7145.herokuapp.com/)
 
-- 📝 I regularly write articles on [https://auth.geeksforgeeks.org/user/raviss7415/articles](this)
+- 📝 I regularly write articles on [this](https://auth.geeksforgeeks.org/user/raviss7415/articles)
 
 - 💬 Ask me about **NodeJS ,NoSql**
 
